@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\C#\começando\bin\Debug\net10.0\começando.exe
+C:\Users\paulo\OneDrive\Desktop\C#\começando\bin\Debug\net10.0\começando.deps.json
+C:\Users\paulo\OneDrive\Desktop\C#\começando\bin\Debug\net10.0\começando.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\C#\começando\bin\Debug\net10.0\começando.dll
+C:\Users\paulo\OneDrive\Desktop\C#\começando\bin\Debug\net10.0\começando.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.dll
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\refint\começando.dll
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\começando.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\C#\começando\obj\Debug\net10.0\ref\começando.dll

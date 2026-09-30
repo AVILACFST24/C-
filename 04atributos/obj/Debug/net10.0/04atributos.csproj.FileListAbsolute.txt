@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\bin\Debug\net10.0\04atributos.exe
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\bin\Debug\net10.0\04atributos.deps.json
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\bin\Debug\net10.0\04atributos.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\bin\Debug\net10.0\04atributos.dll
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\bin\Debug\net10.0\04atributos.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.dll
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\refint\04atributos.dll
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\04atributos.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\C#\04atributos\obj\Debug\net10.0\ref\04atributos.dll

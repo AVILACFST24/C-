@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\bin\Debug\net10.0\exercico4.exe
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\bin\Debug\net10.0\exercico4.deps.json
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\bin\Debug\net10.0\exercico4.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\bin\Debug\net10.0\exercico4.dll
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\bin\Debug\net10.0\exercico4.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.dll
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\refint\exercico4.dll
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\exercico4.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\C#\começando\exercicio2\exercicio3\exercico4\obj\Debug\net10.0\ref\exercico4.dll

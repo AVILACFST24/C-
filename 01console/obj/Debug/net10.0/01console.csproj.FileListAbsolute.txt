@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\C#\01console\bin\Debug\net10.0\01console.exe
+C:\Users\paulo\OneDrive\Desktop\C#\01console\bin\Debug\net10.0\01console.deps.json
+C:\Users\paulo\OneDrive\Desktop\C#\01console\bin\Debug\net10.0\01console.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\C#\01console\bin\Debug\net10.0\01console.dll
+C:\Users\paulo\OneDrive\Desktop\C#\01console\bin\Debug\net10.0\01console.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.dll
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\refint\01console.dll
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\01console.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\C#\01console\obj\Debug\net10.0\ref\01console.dll

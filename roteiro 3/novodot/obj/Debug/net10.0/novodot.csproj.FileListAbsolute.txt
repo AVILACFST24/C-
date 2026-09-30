@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\bin\Debug\net10.0\novodot.exe
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\bin\Debug\net10.0\novodot.deps.json
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\bin\Debug\net10.0\novodot.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\bin\Debug\net10.0\novodot.dll
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\bin\Debug\net10.0\novodot.pdb
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.dll
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\refint\novodot.dll
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.pdb
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\novodot.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\roteiro 3\novodot\obj\Debug\net10.0\ref\novodot.dll

@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\bin\Debug\net10.0\o3Construtor.exe
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\bin\Debug\net10.0\o3Construtor.deps.json
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\bin\Debug\net10.0\o3Construtor.runtimeconfig.json
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\bin\Debug\net10.0\o3Construtor.dll
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\bin\Debug\net10.0\o3Construtor.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.dll
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\refint\o3Construtor.dll
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.pdb
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\o3Construtor.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Desktop\C#\o3Construtor\obj\Debug\net10.0\ref\o3Construtor.dll
